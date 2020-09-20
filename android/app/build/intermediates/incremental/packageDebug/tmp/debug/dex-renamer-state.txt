@@ -1,0 +1,4 @@
+#Sun Sep 20 05:58:53 PKT 2020
+base.0=/home/syed/Sites/react/firstApp/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
